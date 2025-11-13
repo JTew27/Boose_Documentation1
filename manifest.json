@@ -1,0 +1,251 @@
+{
+  "source_base_path": "C:/Users/ianct/source/documentation",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "docs/BooseTesting.testing.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/BooseTesting.testing.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BooseTesting.testing",
+      "Summary": "<p sourcefile=\"docs/BooseTesting.testing.yml\" sourcestartlinenumber=\"1\">Aims to pass the requirements and test the drawto,moveto and running multiple commands at once</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "docs/BooseTesting.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/BooseTesting.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BooseTesting",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "docs/JTEW_BOOSE.AppCanvas.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/JTEW_BOOSE.AppCanvas.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "JTEW_BOOSE.AppCanvas",
+      "Summary": "<p sourcefile=\"docs/JTEW_BOOSE.AppCanvas.yml\" sourcestartlinenumber=\"1\">new version of the canvas class that extends the Icanvas interface so that all the relevant drawing methods can be referenced and created that exist within so\nthey can be overidden to implement my own version</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "docs/JTEW_BOOSE.AppCircle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/JTEW_BOOSE.AppCircle.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "JTEW_BOOSE.AppCircle",
+      "Summary": "<p sourcefile=\"docs/JTEW_BOOSE.AppCircle.yml\" sourcestartlinenumber=\"1\">Inherits <xref href=\"BOOSE.CommandOneParameter\" data-throw-if-not-resolved=\"false\"></xref> meaning that this class expects and only takes one valid parameter\nso that it can be passed in to draw a circle\nSets up the circle command and its parameter so a circle can be drawn with canvas</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "docs/JTEW_BOOSE.AppClear.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/JTEW_BOOSE.AppClear.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "JTEW_BOOSE.AppClear",
+      "Summary": "<p sourcefile=\"docs/JTEW_BOOSE.AppClear.yml\" sourcestartlinenumber=\"1\">allows for the bitmap to cleared to a blank slate</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "docs/JTEW_BOOSE.AppCommandFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/JTEW_BOOSE.AppCommandFactory.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "JTEW_BOOSE.AppCommandFactory",
+      "Summary": "<p sourcefile=\"docs/JTEW_BOOSE.AppCommandFactory.yml\" sourcestartlinenumber=\"1\">This factory extends the command factory in boose so that the relevant methods can be used such as makeCommand to\nmake a new custom instance of each drawing method</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "docs/JTEW_BOOSE.AppDrawTo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/JTEW_BOOSE.AppDrawTo.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "JTEW_BOOSE.AppDrawTo",
+      "Summary": "<p sourcefile=\"docs/JTEW_BOOSE.AppDrawTo.yml\" sourcestartlinenumber=\"1\">Inherits <xref href=\"BOOSE.CommandTwoParameters\" data-throw-if-not-resolved=\"false\"></xref> so that two arguements are expected to be passed in so that\na line can be drawn from the x coordinate parameter to the y coordinate</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "docs/JTEW_BOOSE.AppMoveTo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/JTEW_BOOSE.AppMoveTo.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "JTEW_BOOSE.AppMoveTo",
+      "Summary": "<p sourcefile=\"docs/JTEW_BOOSE.AppMoveTo.yml\" sourcestartlinenumber=\"1\">Creates and calls the moveto command so that the pen is repositioned by the canvas\npassing an x and y coordinate to move the pen when it is executed.</p>\n<p sourcefile=\"docs/JTEW_BOOSE.AppMoveTo.yml\" sourcestartlinenumber=\"4\">Inherits <xref href=\"BOOSE.CommandTwoParameters\" data-throw-if-not-resolved=\"false\"></xref> meaning two parameters must be passed in\nfor both coordinates so that they can be passed to canvas.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "docs/JTEW_BOOSE.AppPColour.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/JTEW_BOOSE.AppPColour.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "JTEW_BOOSE.AppPColour",
+      "Summary": "<p sourcefile=\"docs/JTEW_BOOSE.AppPColour.yml\" sourcestartlinenumber=\"1\">Sets the pen colour for drawing.\nInherits from <xref href=\"BOOSE.CommandThreeParameters\" data-throw-if-not-resolved=\"false\"></xref> so the number of parameters much match\nrepresenting (RGB red,green,blue)</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "docs/JTEW_BOOSE.AppRect.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/JTEW_BOOSE.AppRect.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "JTEW_BOOSE.AppRect",
+      "Summary": "<p sourcefile=\"docs/JTEW_BOOSE.AppRect.yml\" sourcestartlinenumber=\"1\">Inherits <xref href=\"BOOSE.CommandTwoParameters\" data-throw-if-not-resolved=\"false\"></xref> so that two arguements are expected to be passed in so that\na rectangle can be drawn from the width and height at the current x and y coordinate.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "docs/JTEW_BOOSE.AppTri.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/JTEW_BOOSE.AppTri.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "JTEW_BOOSE.AppTri",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "docs/JTEW_BOOSE.AppWriteText.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/JTEW_BOOSE.AppWriteText.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "JTEW_BOOSE.AppWriteText",
+      "Summary": "<p sourcefile=\"docs/JTEW_BOOSE.AppWriteText.yml\" sourcestartlinenumber=\"1\">Inherits <xref href=\"BOOSE.CommandOneParameter\" data-throw-if-not-resolved=\"false\"></xref> meaning that this class expects and only takes one valid parameter\nso that it can be passed to write the text onto the bitmap\nSets up the circle command and its parameter so a circle can be drawn with canvas</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "docs/JTEW_BOOSE.BOOSE.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/JTEW_BOOSE.BOOSE.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "JTEW_BOOSE.BOOSE",
+      "Summary": "<p sourcefile=\"docs/JTEW_BOOSE.BOOSE.yml\" sourcestartlinenumber=\"1\">The main class that allows for the program to run BOOSE calling relevant interfaces connecting parser, command factory,\nstored program and drawing canvas.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "docs/JTEW_BOOSE.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/JTEW_BOOSE.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "JTEW_BOOSE",
+      "Summary": null
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "docs/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/toc.html"
+        },
+        ".json": {
+          "relative_path": "docs/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

@@ -1,0 +1,1131 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: BooseTesting
+  name: BooseTesting
+  href: docs/BooseTesting.html
+  commentId: N:BooseTesting
+  fullName: BooseTesting
+  nameWithType: BooseTesting
+- uid: BooseTesting.testing
+  name: testing
+  href: docs/BooseTesting.testing.html
+  commentId: T:BooseTesting.testing
+  fullName: BooseTesting.testing
+  nameWithType: testing
+- uid: BooseTesting.testing.AppDrawToTest
+  name: AppDrawToTest()
+  href: docs/BooseTesting.testing.html#BooseTesting_testing_AppDrawToTest
+  commentId: M:BooseTesting.testing.AppDrawToTest
+  fullName: BooseTesting.testing.AppDrawToTest()
+  nameWithType: testing.AppDrawToTest()
+- uid: BooseTesting.testing.AppDrawToTest*
+  name: AppDrawToTest
+  href: docs/BooseTesting.testing.html#BooseTesting_testing_AppDrawToTest_
+  commentId: Overload:BooseTesting.testing.AppDrawToTest
+  isSpec: "True"
+  fullName: BooseTesting.testing.AppDrawToTest
+  nameWithType: testing.AppDrawToTest
+- uid: BooseTesting.testing.AppMoveToTest
+  name: AppMoveToTest()
+  href: docs/BooseTesting.testing.html#BooseTesting_testing_AppMoveToTest
+  commentId: M:BooseTesting.testing.AppMoveToTest
+  fullName: BooseTesting.testing.AppMoveToTest()
+  nameWithType: testing.AppMoveToTest()
+- uid: BooseTesting.testing.AppMoveToTest*
+  name: AppMoveToTest
+  href: docs/BooseTesting.testing.html#BooseTesting_testing_AppMoveToTest_
+  commentId: Overload:BooseTesting.testing.AppMoveToTest
+  isSpec: "True"
+  fullName: BooseTesting.testing.AppMoveToTest
+  nameWithType: testing.AppMoveToTest
+- uid: BooseTesting.testing.MoveToTest
+  name: MoveToTest()
+  href: docs/BooseTesting.testing.html#BooseTesting_testing_MoveToTest
+  commentId: M:BooseTesting.testing.MoveToTest
+  fullName: BooseTesting.testing.MoveToTest()
+  nameWithType: testing.MoveToTest()
+- uid: BooseTesting.testing.MoveToTest*
+  name: MoveToTest
+  href: docs/BooseTesting.testing.html#BooseTesting_testing_MoveToTest_
+  commentId: Overload:BooseTesting.testing.MoveToTest
+  isSpec: "True"
+  fullName: BooseTesting.testing.MoveToTest
+  nameWithType: testing.MoveToTest
+- uid: BooseTesting.testing.MultiLineTest
+  name: MultiLineTest()
+  href: docs/BooseTesting.testing.html#BooseTesting_testing_MultiLineTest
+  commentId: M:BooseTesting.testing.MultiLineTest
+  fullName: BooseTesting.testing.MultiLineTest()
+  nameWithType: testing.MultiLineTest()
+- uid: BooseTesting.testing.MultiLineTest*
+  name: MultiLineTest
+  href: docs/BooseTesting.testing.html#BooseTesting_testing_MultiLineTest_
+  commentId: Overload:BooseTesting.testing.MultiLineTest
+  isSpec: "True"
+  fullName: BooseTesting.testing.MultiLineTest
+  nameWithType: testing.MultiLineTest
+- uid: JTEW_BOOSE
+  name: JTEW_BOOSE
+  href: docs/JTEW_BOOSE.html
+  commentId: N:JTEW_BOOSE
+  fullName: JTEW_BOOSE
+  nameWithType: JTEW_BOOSE
+- uid: JTEW_BOOSE.AppCanvas
+  name: AppCanvas
+  href: docs/JTEW_BOOSE.AppCanvas.html
+  commentId: T:JTEW_BOOSE.AppCanvas
+  fullName: JTEW_BOOSE.AppCanvas
+  nameWithType: AppCanvas
+- uid: JTEW_BOOSE.AppCanvas.#ctor(System.Int32,System.Int32)
+  name: AppCanvas(int, int)
+  href: docs/JTEW_BOOSE.AppCanvas.html#JTEW_BOOSE_AppCanvas__ctor_System_Int32_System_Int32_
+  commentId: M:JTEW_BOOSE.AppCanvas.#ctor(System.Int32,System.Int32)
+  name.vb: New(Integer, Integer)
+  fullName: JTEW_BOOSE.AppCanvas.AppCanvas(int, int)
+  fullName.vb: JTEW_BOOSE.AppCanvas.New(Integer, Integer)
+  nameWithType: AppCanvas.AppCanvas(int, int)
+  nameWithType.vb: AppCanvas.New(Integer, Integer)
+- uid: JTEW_BOOSE.AppCanvas.#ctor*
+  name: AppCanvas
+  href: docs/JTEW_BOOSE.AppCanvas.html#JTEW_BOOSE_AppCanvas__ctor_
+  commentId: Overload:JTEW_BOOSE.AppCanvas.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: JTEW_BOOSE.AppCanvas.AppCanvas
+  fullName.vb: JTEW_BOOSE.AppCanvas.New
+  nameWithType: AppCanvas.AppCanvas
+  nameWithType.vb: AppCanvas.New
+- uid: JTEW_BOOSE.AppCanvas.Circle(System.Int32,System.Boolean)
+  name: Circle(int, bool)
+  href: docs/JTEW_BOOSE.AppCanvas.html#JTEW_BOOSE_AppCanvas_Circle_System_Int32_System_Boolean_
+  commentId: M:JTEW_BOOSE.AppCanvas.Circle(System.Int32,System.Boolean)
+  name.vb: Circle(Integer, Boolean)
+  fullName: JTEW_BOOSE.AppCanvas.Circle(int, bool)
+  fullName.vb: JTEW_BOOSE.AppCanvas.Circle(Integer, Boolean)
+  nameWithType: AppCanvas.Circle(int, bool)
+  nameWithType.vb: AppCanvas.Circle(Integer, Boolean)
+- uid: JTEW_BOOSE.AppCanvas.Circle*
+  name: Circle
+  href: docs/JTEW_BOOSE.AppCanvas.html#JTEW_BOOSE_AppCanvas_Circle_
+  commentId: Overload:JTEW_BOOSE.AppCanvas.Circle
+  isSpec: "True"
+  fullName: JTEW_BOOSE.AppCanvas.Circle
+  nameWithType: AppCanvas.Circle
+- uid: JTEW_BOOSE.AppCanvas.Clear
+  name: Clear()
+  href: docs/JTEW_BOOSE.AppCanvas.html#JTEW_BOOSE_AppCanvas_Clear
+  commentId: M:JTEW_BOOSE.AppCanvas.Clear
+  fullName: JTEW_BOOSE.AppCanvas.Clear()
+  nameWithType: AppCanvas.Clear()
+- uid: JTEW_BOOSE.AppCanvas.Clear*
+  name: Clear
+  href: docs/JTEW_BOOSE.AppCanvas.html#JTEW_BOOSE_AppCanvas_Clear_
+  commentId: Overload:JTEW_BOOSE.AppCanvas.Clear
+  isSpec: "True"
+  fullName: JTEW_BOOSE.AppCanvas.Clear
+  nameWithType: AppCanvas.Clear
+- uid: JTEW_BOOSE.AppCanvas.DrawTo(System.Int32,System.Int32)
+  name: DrawTo(int, int)
+  href: docs/JTEW_BOOSE.AppCanvas.html#JTEW_BOOSE_AppCanvas_DrawTo_System_Int32_System_Int32_
+  commentId: M:JTEW_BOOSE.AppCanvas.DrawTo(System.Int32,System.Int32)
+  name.vb: DrawTo(Integer, Integer)
+  fullName: JTEW_BOOSE.AppCanvas.DrawTo(int, int)
+  fullName.vb: JTEW_BOOSE.AppCanvas.DrawTo(Integer, Integer)
+  nameWithType: AppCanvas.DrawTo(int, int)
+  nameWithType.vb: AppCanvas.DrawTo(Integer, Integer)
+- uid: JTEW_BOOSE.AppCanvas.DrawTo*
+  name: DrawTo
+  href: docs/JTEW_BOOSE.AppCanvas.html#JTEW_BOOSE_AppCanvas_DrawTo_
+  commentId: Overload:JTEW_BOOSE.AppCanvas.DrawTo
+  isSpec: "True"
+  fullName: JTEW_BOOSE.AppCanvas.DrawTo
+  nameWithType: AppCanvas.DrawTo
+- uid: JTEW_BOOSE.AppCanvas.MoveTo(System.Int32,System.Int32)
+  name: MoveTo(int, int)
+  href: docs/JTEW_BOOSE.AppCanvas.html#JTEW_BOOSE_AppCanvas_MoveTo_System_Int32_System_Int32_
+  commentId: M:JTEW_BOOSE.AppCanvas.MoveTo(System.Int32,System.Int32)
+  name.vb: MoveTo(Integer, Integer)
+  fullName: JTEW_BOOSE.AppCanvas.MoveTo(int, int)
+  fullName.vb: JTEW_BOOSE.AppCanvas.MoveTo(Integer, Integer)
+  nameWithType: AppCanvas.MoveTo(int, int)
+  nameWithType.vb: AppCanvas.MoveTo(Integer, Integer)
+- uid: JTEW_BOOSE.AppCanvas.MoveTo*
+  name: MoveTo
+  href: docs/JTEW_BOOSE.AppCanvas.html#JTEW_BOOSE_AppCanvas_MoveTo_
+  commentId: Overload:JTEW_BOOSE.AppCanvas.MoveTo
+  isSpec: "True"
+  fullName: JTEW_BOOSE.AppCanvas.MoveTo
+  nameWithType: AppCanvas.MoveTo
+- uid: JTEW_BOOSE.AppCanvas.PenColour
+  name: PenColour
+  href: docs/JTEW_BOOSE.AppCanvas.html#JTEW_BOOSE_AppCanvas_PenColour
+  commentId: P:JTEW_BOOSE.AppCanvas.PenColour
+  fullName: JTEW_BOOSE.AppCanvas.PenColour
+  nameWithType: AppCanvas.PenColour
+- uid: JTEW_BOOSE.AppCanvas.PenColour*
+  name: PenColour
+  href: docs/JTEW_BOOSE.AppCanvas.html#JTEW_BOOSE_AppCanvas_PenColour_
+  commentId: Overload:JTEW_BOOSE.AppCanvas.PenColour
+  isSpec: "True"
+  fullName: JTEW_BOOSE.AppCanvas.PenColour
+  nameWithType: AppCanvas.PenColour
+- uid: JTEW_BOOSE.AppCanvas.Rect(System.Int32,System.Int32,System.Boolean)
+  name: Rect(int, int, bool)
+  href: docs/JTEW_BOOSE.AppCanvas.html#JTEW_BOOSE_AppCanvas_Rect_System_Int32_System_Int32_System_Boolean_
+  commentId: M:JTEW_BOOSE.AppCanvas.Rect(System.Int32,System.Int32,System.Boolean)
+  name.vb: Rect(Integer, Integer, Boolean)
+  fullName: JTEW_BOOSE.AppCanvas.Rect(int, int, bool)
+  fullName.vb: JTEW_BOOSE.AppCanvas.Rect(Integer, Integer, Boolean)
+  nameWithType: AppCanvas.Rect(int, int, bool)
+  nameWithType.vb: AppCanvas.Rect(Integer, Integer, Boolean)
+- uid: JTEW_BOOSE.AppCanvas.Rect*
+  name: Rect
+  href: docs/JTEW_BOOSE.AppCanvas.html#JTEW_BOOSE_AppCanvas_Rect_
+  commentId: Overload:JTEW_BOOSE.AppCanvas.Rect
+  isSpec: "True"
+  fullName: JTEW_BOOSE.AppCanvas.Rect
+  nameWithType: AppCanvas.Rect
+- uid: JTEW_BOOSE.AppCanvas.Reset
+  name: Reset()
+  href: docs/JTEW_BOOSE.AppCanvas.html#JTEW_BOOSE_AppCanvas_Reset
+  commentId: M:JTEW_BOOSE.AppCanvas.Reset
+  fullName: JTEW_BOOSE.AppCanvas.Reset()
+  nameWithType: AppCanvas.Reset()
+- uid: JTEW_BOOSE.AppCanvas.Reset*
+  name: Reset
+  href: docs/JTEW_BOOSE.AppCanvas.html#JTEW_BOOSE_AppCanvas_Reset_
+  commentId: Overload:JTEW_BOOSE.AppCanvas.Reset
+  isSpec: "True"
+  fullName: JTEW_BOOSE.AppCanvas.Reset
+  nameWithType: AppCanvas.Reset
+- uid: JTEW_BOOSE.AppCanvas.Set(System.Int32,System.Int32)
+  name: Set(int, int)
+  href: docs/JTEW_BOOSE.AppCanvas.html#JTEW_BOOSE_AppCanvas_Set_System_Int32_System_Int32_
+  commentId: M:JTEW_BOOSE.AppCanvas.Set(System.Int32,System.Int32)
+  name.vb: Set(Integer, Integer)
+  fullName: JTEW_BOOSE.AppCanvas.Set(int, int)
+  fullName.vb: JTEW_BOOSE.AppCanvas.Set(Integer, Integer)
+  nameWithType: AppCanvas.Set(int, int)
+  nameWithType.vb: AppCanvas.Set(Integer, Integer)
+- uid: JTEW_BOOSE.AppCanvas.Set*
+  name: Set
+  href: docs/JTEW_BOOSE.AppCanvas.html#JTEW_BOOSE_AppCanvas_Set_
+  commentId: Overload:JTEW_BOOSE.AppCanvas.Set
+  isSpec: "True"
+  fullName: JTEW_BOOSE.AppCanvas.Set
+  nameWithType: AppCanvas.Set
+- uid: JTEW_BOOSE.AppCanvas.SetColour(System.Int32,System.Int32,System.Int32)
+  name: SetColour(int, int, int)
+  href: docs/JTEW_BOOSE.AppCanvas.html#JTEW_BOOSE_AppCanvas_SetColour_System_Int32_System_Int32_System_Int32_
+  commentId: M:JTEW_BOOSE.AppCanvas.SetColour(System.Int32,System.Int32,System.Int32)
+  name.vb: SetColour(Integer, Integer, Integer)
+  fullName: JTEW_BOOSE.AppCanvas.SetColour(int, int, int)
+  fullName.vb: JTEW_BOOSE.AppCanvas.SetColour(Integer, Integer, Integer)
+  nameWithType: AppCanvas.SetColour(int, int, int)
+  nameWithType.vb: AppCanvas.SetColour(Integer, Integer, Integer)
+- uid: JTEW_BOOSE.AppCanvas.SetColour*
+  name: SetColour
+  href: docs/JTEW_BOOSE.AppCanvas.html#JTEW_BOOSE_AppCanvas_SetColour_
+  commentId: Overload:JTEW_BOOSE.AppCanvas.SetColour
+  isSpec: "True"
+  fullName: JTEW_BOOSE.AppCanvas.SetColour
+  nameWithType: AppCanvas.SetColour
+- uid: JTEW_BOOSE.AppCanvas.ShowError(System.String)
+  name: ShowError(string)
+  href: docs/JTEW_BOOSE.AppCanvas.html#JTEW_BOOSE_AppCanvas_ShowError_System_String_
+  commentId: M:JTEW_BOOSE.AppCanvas.ShowError(System.String)
+  name.vb: ShowError(String)
+  fullName: JTEW_BOOSE.AppCanvas.ShowError(string)
+  fullName.vb: JTEW_BOOSE.AppCanvas.ShowError(String)
+  nameWithType: AppCanvas.ShowError(string)
+  nameWithType.vb: AppCanvas.ShowError(String)
+- uid: JTEW_BOOSE.AppCanvas.ShowError*
+  name: ShowError
+  href: docs/JTEW_BOOSE.AppCanvas.html#JTEW_BOOSE_AppCanvas_ShowError_
+  commentId: Overload:JTEW_BOOSE.AppCanvas.ShowError
+  isSpec: "True"
+  fullName: JTEW_BOOSE.AppCanvas.ShowError
+  nameWithType: AppCanvas.ShowError
+- uid: JTEW_BOOSE.AppCanvas.Tri(System.Int32,System.Int32)
+  name: Tri(int, int)
+  href: docs/JTEW_BOOSE.AppCanvas.html#JTEW_BOOSE_AppCanvas_Tri_System_Int32_System_Int32_
+  commentId: M:JTEW_BOOSE.AppCanvas.Tri(System.Int32,System.Int32)
+  name.vb: Tri(Integer, Integer)
+  fullName: JTEW_BOOSE.AppCanvas.Tri(int, int)
+  fullName.vb: JTEW_BOOSE.AppCanvas.Tri(Integer, Integer)
+  nameWithType: AppCanvas.Tri(int, int)
+  nameWithType.vb: AppCanvas.Tri(Integer, Integer)
+- uid: JTEW_BOOSE.AppCanvas.Tri*
+  name: Tri
+  href: docs/JTEW_BOOSE.AppCanvas.html#JTEW_BOOSE_AppCanvas_Tri_
+  commentId: Overload:JTEW_BOOSE.AppCanvas.Tri
+  isSpec: "True"
+  fullName: JTEW_BOOSE.AppCanvas.Tri
+  nameWithType: AppCanvas.Tri
+- uid: JTEW_BOOSE.AppCanvas.WriteText(System.String)
+  name: WriteText(string)
+  href: docs/JTEW_BOOSE.AppCanvas.html#JTEW_BOOSE_AppCanvas_WriteText_System_String_
+  commentId: M:JTEW_BOOSE.AppCanvas.WriteText(System.String)
+  name.vb: WriteText(String)
+  fullName: JTEW_BOOSE.AppCanvas.WriteText(string)
+  fullName.vb: JTEW_BOOSE.AppCanvas.WriteText(String)
+  nameWithType: AppCanvas.WriteText(string)
+  nameWithType.vb: AppCanvas.WriteText(String)
+- uid: JTEW_BOOSE.AppCanvas.WriteText*
+  name: WriteText
+  href: docs/JTEW_BOOSE.AppCanvas.html#JTEW_BOOSE_AppCanvas_WriteText_
+  commentId: Overload:JTEW_BOOSE.AppCanvas.WriteText
+  isSpec: "True"
+  fullName: JTEW_BOOSE.AppCanvas.WriteText
+  nameWithType: AppCanvas.WriteText
+- uid: JTEW_BOOSE.AppCanvas.Xpos
+  name: Xpos
+  href: docs/JTEW_BOOSE.AppCanvas.html#JTEW_BOOSE_AppCanvas_Xpos
+  commentId: P:JTEW_BOOSE.AppCanvas.Xpos
+  fullName: JTEW_BOOSE.AppCanvas.Xpos
+  nameWithType: AppCanvas.Xpos
+- uid: JTEW_BOOSE.AppCanvas.Xpos*
+  name: Xpos
+  href: docs/JTEW_BOOSE.AppCanvas.html#JTEW_BOOSE_AppCanvas_Xpos_
+  commentId: Overload:JTEW_BOOSE.AppCanvas.Xpos
+  isSpec: "True"
+  fullName: JTEW_BOOSE.AppCanvas.Xpos
+  nameWithType: AppCanvas.Xpos
+- uid: JTEW_BOOSE.AppCanvas.Ypos
+  name: Ypos
+  href: docs/JTEW_BOOSE.AppCanvas.html#JTEW_BOOSE_AppCanvas_Ypos
+  commentId: P:JTEW_BOOSE.AppCanvas.Ypos
+  fullName: JTEW_BOOSE.AppCanvas.Ypos
+  nameWithType: AppCanvas.Ypos
+- uid: JTEW_BOOSE.AppCanvas.Ypos*
+  name: Ypos
+  href: docs/JTEW_BOOSE.AppCanvas.html#JTEW_BOOSE_AppCanvas_Ypos_
+  commentId: Overload:JTEW_BOOSE.AppCanvas.Ypos
+  isSpec: "True"
+  fullName: JTEW_BOOSE.AppCanvas.Ypos
+  nameWithType: AppCanvas.Ypos
+- uid: JTEW_BOOSE.AppCanvas.errorY
+  name: errorY
+  href: docs/JTEW_BOOSE.AppCanvas.html#JTEW_BOOSE_AppCanvas_errorY
+  commentId: F:JTEW_BOOSE.AppCanvas.errorY
+  fullName: JTEW_BOOSE.AppCanvas.errorY
+  nameWithType: AppCanvas.errorY
+- uid: JTEW_BOOSE.AppCanvas.filled
+  name: filled
+  href: docs/JTEW_BOOSE.AppCanvas.html#JTEW_BOOSE_AppCanvas_filled
+  commentId: F:JTEW_BOOSE.AppCanvas.filled
+  fullName: JTEW_BOOSE.AppCanvas.filled
+  nameWithType: AppCanvas.filled
+- uid: JTEW_BOOSE.AppCanvas.getBitmap
+  name: getBitmap()
+  href: docs/JTEW_BOOSE.AppCanvas.html#JTEW_BOOSE_AppCanvas_getBitmap
+  commentId: M:JTEW_BOOSE.AppCanvas.getBitmap
+  fullName: JTEW_BOOSE.AppCanvas.getBitmap()
+  nameWithType: AppCanvas.getBitmap()
+- uid: JTEW_BOOSE.AppCanvas.getBitmap*
+  name: getBitmap
+  href: docs/JTEW_BOOSE.AppCanvas.html#JTEW_BOOSE_AppCanvas_getBitmap_
+  commentId: Overload:JTEW_BOOSE.AppCanvas.getBitmap
+  isSpec: "True"
+  fullName: JTEW_BOOSE.AppCanvas.getBitmap
+  nameWithType: AppCanvas.getBitmap
+- uid: JTEW_BOOSE.AppCircle
+  name: AppCircle
+  href: docs/JTEW_BOOSE.AppCircle.html
+  commentId: T:JTEW_BOOSE.AppCircle
+  fullName: JTEW_BOOSE.AppCircle
+  nameWithType: AppCircle
+- uid: JTEW_BOOSE.AppCircle.#ctor
+  name: AppCircle()
+  href: docs/JTEW_BOOSE.AppCircle.html#JTEW_BOOSE_AppCircle__ctor
+  commentId: M:JTEW_BOOSE.AppCircle.#ctor
+  name.vb: New()
+  fullName: JTEW_BOOSE.AppCircle.AppCircle()
+  fullName.vb: JTEW_BOOSE.AppCircle.New()
+  nameWithType: AppCircle.AppCircle()
+  nameWithType.vb: AppCircle.New()
+- uid: JTEW_BOOSE.AppCircle.#ctor(JTEW_BOOSE.AppCanvas,System.Int32)
+  name: AppCircle(AppCanvas, int)
+  href: docs/JTEW_BOOSE.AppCircle.html#JTEW_BOOSE_AppCircle__ctor_JTEW_BOOSE_AppCanvas_System_Int32_
+  commentId: M:JTEW_BOOSE.AppCircle.#ctor(JTEW_BOOSE.AppCanvas,System.Int32)
+  name.vb: New(AppCanvas, Integer)
+  fullName: JTEW_BOOSE.AppCircle.AppCircle(JTEW_BOOSE.AppCanvas, int)
+  fullName.vb: JTEW_BOOSE.AppCircle.New(JTEW_BOOSE.AppCanvas, Integer)
+  nameWithType: AppCircle.AppCircle(AppCanvas, int)
+  nameWithType.vb: AppCircle.New(AppCanvas, Integer)
+- uid: JTEW_BOOSE.AppCircle.#ctor*
+  name: AppCircle
+  href: docs/JTEW_BOOSE.AppCircle.html#JTEW_BOOSE_AppCircle__ctor_
+  commentId: Overload:JTEW_BOOSE.AppCircle.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: JTEW_BOOSE.AppCircle.AppCircle
+  fullName.vb: JTEW_BOOSE.AppCircle.New
+  nameWithType: AppCircle.AppCircle
+  nameWithType.vb: AppCircle.New
+- uid: JTEW_BOOSE.AppCircle.CheckParameters(System.String[])
+  name: CheckParameters(string[])
+  href: docs/JTEW_BOOSE.AppCircle.html#JTEW_BOOSE_AppCircle_CheckParameters_System_String___
+  commentId: M:JTEW_BOOSE.AppCircle.CheckParameters(System.String[])
+  name.vb: CheckParameters(String())
+  fullName: JTEW_BOOSE.AppCircle.CheckParameters(string[])
+  fullName.vb: JTEW_BOOSE.AppCircle.CheckParameters(String())
+  nameWithType: AppCircle.CheckParameters(string[])
+  nameWithType.vb: AppCircle.CheckParameters(String())
+- uid: JTEW_BOOSE.AppCircle.CheckParameters*
+  name: CheckParameters
+  href: docs/JTEW_BOOSE.AppCircle.html#JTEW_BOOSE_AppCircle_CheckParameters_
+  commentId: Overload:JTEW_BOOSE.AppCircle.CheckParameters
+  isSpec: "True"
+  fullName: JTEW_BOOSE.AppCircle.CheckParameters
+  nameWithType: AppCircle.CheckParameters
+- uid: JTEW_BOOSE.AppCircle.Compile
+  name: Compile()
+  href: docs/JTEW_BOOSE.AppCircle.html#JTEW_BOOSE_AppCircle_Compile
+  commentId: M:JTEW_BOOSE.AppCircle.Compile
+  fullName: JTEW_BOOSE.AppCircle.Compile()
+  nameWithType: AppCircle.Compile()
+- uid: JTEW_BOOSE.AppCircle.Compile*
+  name: Compile
+  href: docs/JTEW_BOOSE.AppCircle.html#JTEW_BOOSE_AppCircle_Compile_
+  commentId: Overload:JTEW_BOOSE.AppCircle.Compile
+  isSpec: "True"
+  fullName: JTEW_BOOSE.AppCircle.Compile
+  nameWithType: AppCircle.Compile
+- uid: JTEW_BOOSE.AppCircle.Execute
+  name: Execute()
+  href: docs/JTEW_BOOSE.AppCircle.html#JTEW_BOOSE_AppCircle_Execute
+  commentId: M:JTEW_BOOSE.AppCircle.Execute
+  fullName: JTEW_BOOSE.AppCircle.Execute()
+  nameWithType: AppCircle.Execute()
+- uid: JTEW_BOOSE.AppCircle.Execute*
+  name: Execute
+  href: docs/JTEW_BOOSE.AppCircle.html#JTEW_BOOSE_AppCircle_Execute_
+  commentId: Overload:JTEW_BOOSE.AppCircle.Execute
+  isSpec: "True"
+  fullName: JTEW_BOOSE.AppCircle.Execute
+  nameWithType: AppCircle.Execute
+- uid: JTEW_BOOSE.AppCircle.Set(BOOSE.StoredProgram,System.String)
+  name: Set(StoredProgram, string)
+  href: docs/JTEW_BOOSE.AppCircle.html#JTEW_BOOSE_AppCircle_Set_BOOSE_StoredProgram_System_String_
+  commentId: M:JTEW_BOOSE.AppCircle.Set(BOOSE.StoredProgram,System.String)
+  name.vb: Set(StoredProgram, String)
+  fullName: JTEW_BOOSE.AppCircle.Set(BOOSE.StoredProgram, string)
+  fullName.vb: JTEW_BOOSE.AppCircle.Set(BOOSE.StoredProgram, String)
+  nameWithType: AppCircle.Set(StoredProgram, string)
+  nameWithType.vb: AppCircle.Set(StoredProgram, String)
+- uid: JTEW_BOOSE.AppCircle.Set*
+  name: Set
+  href: docs/JTEW_BOOSE.AppCircle.html#JTEW_BOOSE_AppCircle_Set_
+  commentId: Overload:JTEW_BOOSE.AppCircle.Set
+  isSpec: "True"
+  fullName: JTEW_BOOSE.AppCircle.Set
+  nameWithType: AppCircle.Set
+- uid: JTEW_BOOSE.AppClear
+  name: AppClear
+  href: docs/JTEW_BOOSE.AppClear.html
+  commentId: T:JTEW_BOOSE.AppClear
+  fullName: JTEW_BOOSE.AppClear
+  nameWithType: AppClear
+- uid: JTEW_BOOSE.AppClear.#ctor
+  name: AppClear()
+  href: docs/JTEW_BOOSE.AppClear.html#JTEW_BOOSE_AppClear__ctor
+  commentId: M:JTEW_BOOSE.AppClear.#ctor
+  name.vb: New()
+  fullName: JTEW_BOOSE.AppClear.AppClear()
+  fullName.vb: JTEW_BOOSE.AppClear.New()
+  nameWithType: AppClear.AppClear()
+  nameWithType.vb: AppClear.New()
+- uid: JTEW_BOOSE.AppClear.#ctor(BOOSE.Canvas)
+  name: AppClear(Canvas)
+  href: docs/JTEW_BOOSE.AppClear.html#JTEW_BOOSE_AppClear__ctor_BOOSE_Canvas_
+  commentId: M:JTEW_BOOSE.AppClear.#ctor(BOOSE.Canvas)
+  name.vb: New(Canvas)
+  fullName: JTEW_BOOSE.AppClear.AppClear(BOOSE.Canvas)
+  fullName.vb: JTEW_BOOSE.AppClear.New(BOOSE.Canvas)
+  nameWithType: AppClear.AppClear(Canvas)
+  nameWithType.vb: AppClear.New(Canvas)
+- uid: JTEW_BOOSE.AppClear.#ctor*
+  name: AppClear
+  href: docs/JTEW_BOOSE.AppClear.html#JTEW_BOOSE_AppClear__ctor_
+  commentId: Overload:JTEW_BOOSE.AppClear.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: JTEW_BOOSE.AppClear.AppClear
+  fullName.vb: JTEW_BOOSE.AppClear.New
+  nameWithType: AppClear.AppClear
+  nameWithType.vb: AppClear.New
+- uid: JTEW_BOOSE.AppClear.CheckParameters(System.String[])
+  name: CheckParameters(string[])
+  href: docs/JTEW_BOOSE.AppClear.html#JTEW_BOOSE_AppClear_CheckParameters_System_String___
+  commentId: M:JTEW_BOOSE.AppClear.CheckParameters(System.String[])
+  name.vb: CheckParameters(String())
+  fullName: JTEW_BOOSE.AppClear.CheckParameters(string[])
+  fullName.vb: JTEW_BOOSE.AppClear.CheckParameters(String())
+  nameWithType: AppClear.CheckParameters(string[])
+  nameWithType.vb: AppClear.CheckParameters(String())
+- uid: JTEW_BOOSE.AppClear.CheckParameters*
+  name: CheckParameters
+  href: docs/JTEW_BOOSE.AppClear.html#JTEW_BOOSE_AppClear_CheckParameters_
+  commentId: Overload:JTEW_BOOSE.AppClear.CheckParameters
+  isSpec: "True"
+  fullName: JTEW_BOOSE.AppClear.CheckParameters
+  nameWithType: AppClear.CheckParameters
+- uid: JTEW_BOOSE.AppClear.Compile
+  name: Compile()
+  href: docs/JTEW_BOOSE.AppClear.html#JTEW_BOOSE_AppClear_Compile
+  commentId: M:JTEW_BOOSE.AppClear.Compile
+  fullName: JTEW_BOOSE.AppClear.Compile()
+  nameWithType: AppClear.Compile()
+- uid: JTEW_BOOSE.AppClear.Compile*
+  name: Compile
+  href: docs/JTEW_BOOSE.AppClear.html#JTEW_BOOSE_AppClear_Compile_
+  commentId: Overload:JTEW_BOOSE.AppClear.Compile
+  isSpec: "True"
+  fullName: JTEW_BOOSE.AppClear.Compile
+  nameWithType: AppClear.Compile
+- uid: JTEW_BOOSE.AppClear.Execute
+  name: Execute()
+  href: docs/JTEW_BOOSE.AppClear.html#JTEW_BOOSE_AppClear_Execute
+  commentId: M:JTEW_BOOSE.AppClear.Execute
+  fullName: JTEW_BOOSE.AppClear.Execute()
+  nameWithType: AppClear.Execute()
+- uid: JTEW_BOOSE.AppClear.Execute*
+  name: Execute
+  href: docs/JTEW_BOOSE.AppClear.html#JTEW_BOOSE_AppClear_Execute_
+  commentId: Overload:JTEW_BOOSE.AppClear.Execute
+  isSpec: "True"
+  fullName: JTEW_BOOSE.AppClear.Execute
+  nameWithType: AppClear.Execute
+- uid: JTEW_BOOSE.AppClear.Set(BOOSE.StoredProgram,System.String)
+  name: Set(StoredProgram, string)
+  href: docs/JTEW_BOOSE.AppClear.html#JTEW_BOOSE_AppClear_Set_BOOSE_StoredProgram_System_String_
+  commentId: M:JTEW_BOOSE.AppClear.Set(BOOSE.StoredProgram,System.String)
+  name.vb: Set(StoredProgram, String)
+  fullName: JTEW_BOOSE.AppClear.Set(BOOSE.StoredProgram, string)
+  fullName.vb: JTEW_BOOSE.AppClear.Set(BOOSE.StoredProgram, String)
+  nameWithType: AppClear.Set(StoredProgram, string)
+  nameWithType.vb: AppClear.Set(StoredProgram, String)
+- uid: JTEW_BOOSE.AppClear.Set*
+  name: Set
+  href: docs/JTEW_BOOSE.AppClear.html#JTEW_BOOSE_AppClear_Set_
+  commentId: Overload:JTEW_BOOSE.AppClear.Set
+  isSpec: "True"
+  fullName: JTEW_BOOSE.AppClear.Set
+  nameWithType: AppClear.Set
+- uid: JTEW_BOOSE.AppCommandFactory
+  name: AppCommandFactory
+  href: docs/JTEW_BOOSE.AppCommandFactory.html
+  commentId: T:JTEW_BOOSE.AppCommandFactory
+  fullName: JTEW_BOOSE.AppCommandFactory
+  nameWithType: AppCommandFactory
+- uid: JTEW_BOOSE.AppCommandFactory.MakeCommand(System.String)
+  name: MakeCommand(string)
+  href: docs/JTEW_BOOSE.AppCommandFactory.html#JTEW_BOOSE_AppCommandFactory_MakeCommand_System_String_
+  commentId: M:JTEW_BOOSE.AppCommandFactory.MakeCommand(System.String)
+  name.vb: MakeCommand(String)
+  fullName: JTEW_BOOSE.AppCommandFactory.MakeCommand(string)
+  fullName.vb: JTEW_BOOSE.AppCommandFactory.MakeCommand(String)
+  nameWithType: AppCommandFactory.MakeCommand(string)
+  nameWithType.vb: AppCommandFactory.MakeCommand(String)
+- uid: JTEW_BOOSE.AppCommandFactory.MakeCommand*
+  name: MakeCommand
+  href: docs/JTEW_BOOSE.AppCommandFactory.html#JTEW_BOOSE_AppCommandFactory_MakeCommand_
+  commentId: Overload:JTEW_BOOSE.AppCommandFactory.MakeCommand
+  isSpec: "True"
+  fullName: JTEW_BOOSE.AppCommandFactory.MakeCommand
+  nameWithType: AppCommandFactory.MakeCommand
+- uid: JTEW_BOOSE.AppDrawTo
+  name: AppDrawTo
+  href: docs/JTEW_BOOSE.AppDrawTo.html
+  commentId: T:JTEW_BOOSE.AppDrawTo
+  fullName: JTEW_BOOSE.AppDrawTo
+  nameWithType: AppDrawTo
+- uid: JTEW_BOOSE.AppDrawTo.#ctor
+  name: AppDrawTo()
+  href: docs/JTEW_BOOSE.AppDrawTo.html#JTEW_BOOSE_AppDrawTo__ctor
+  commentId: M:JTEW_BOOSE.AppDrawTo.#ctor
+  name.vb: New()
+  fullName: JTEW_BOOSE.AppDrawTo.AppDrawTo()
+  fullName.vb: JTEW_BOOSE.AppDrawTo.New()
+  nameWithType: AppDrawTo.AppDrawTo()
+  nameWithType.vb: AppDrawTo.New()
+- uid: JTEW_BOOSE.AppDrawTo.#ctor(JTEW_BOOSE.AppCanvas,System.Int32,System.Int32)
+  name: AppDrawTo(AppCanvas, int, int)
+  href: docs/JTEW_BOOSE.AppDrawTo.html#JTEW_BOOSE_AppDrawTo__ctor_JTEW_BOOSE_AppCanvas_System_Int32_System_Int32_
+  commentId: M:JTEW_BOOSE.AppDrawTo.#ctor(JTEW_BOOSE.AppCanvas,System.Int32,System.Int32)
+  name.vb: New(AppCanvas, Integer, Integer)
+  fullName: JTEW_BOOSE.AppDrawTo.AppDrawTo(JTEW_BOOSE.AppCanvas, int, int)
+  fullName.vb: JTEW_BOOSE.AppDrawTo.New(JTEW_BOOSE.AppCanvas, Integer, Integer)
+  nameWithType: AppDrawTo.AppDrawTo(AppCanvas, int, int)
+  nameWithType.vb: AppDrawTo.New(AppCanvas, Integer, Integer)
+- uid: JTEW_BOOSE.AppDrawTo.#ctor*
+  name: AppDrawTo
+  href: docs/JTEW_BOOSE.AppDrawTo.html#JTEW_BOOSE_AppDrawTo__ctor_
+  commentId: Overload:JTEW_BOOSE.AppDrawTo.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: JTEW_BOOSE.AppDrawTo.AppDrawTo
+  fullName.vb: JTEW_BOOSE.AppDrawTo.New
+  nameWithType: AppDrawTo.AppDrawTo
+  nameWithType.vb: AppDrawTo.New
+- uid: JTEW_BOOSE.AppDrawTo.CheckParameters(System.String[])
+  name: CheckParameters(string[])
+  href: docs/JTEW_BOOSE.AppDrawTo.html#JTEW_BOOSE_AppDrawTo_CheckParameters_System_String___
+  commentId: M:JTEW_BOOSE.AppDrawTo.CheckParameters(System.String[])
+  name.vb: CheckParameters(String())
+  fullName: JTEW_BOOSE.AppDrawTo.CheckParameters(string[])
+  fullName.vb: JTEW_BOOSE.AppDrawTo.CheckParameters(String())
+  nameWithType: AppDrawTo.CheckParameters(string[])
+  nameWithType.vb: AppDrawTo.CheckParameters(String())
+- uid: JTEW_BOOSE.AppDrawTo.CheckParameters*
+  name: CheckParameters
+  href: docs/JTEW_BOOSE.AppDrawTo.html#JTEW_BOOSE_AppDrawTo_CheckParameters_
+  commentId: Overload:JTEW_BOOSE.AppDrawTo.CheckParameters
+  isSpec: "True"
+  fullName: JTEW_BOOSE.AppDrawTo.CheckParameters
+  nameWithType: AppDrawTo.CheckParameters
+- uid: JTEW_BOOSE.AppDrawTo.Compile
+  name: Compile()
+  href: docs/JTEW_BOOSE.AppDrawTo.html#JTEW_BOOSE_AppDrawTo_Compile
+  commentId: M:JTEW_BOOSE.AppDrawTo.Compile
+  fullName: JTEW_BOOSE.AppDrawTo.Compile()
+  nameWithType: AppDrawTo.Compile()
+- uid: JTEW_BOOSE.AppDrawTo.Compile*
+  name: Compile
+  href: docs/JTEW_BOOSE.AppDrawTo.html#JTEW_BOOSE_AppDrawTo_Compile_
+  commentId: Overload:JTEW_BOOSE.AppDrawTo.Compile
+  isSpec: "True"
+  fullName: JTEW_BOOSE.AppDrawTo.Compile
+  nameWithType: AppDrawTo.Compile
+- uid: JTEW_BOOSE.AppDrawTo.Execute
+  name: Execute()
+  href: docs/JTEW_BOOSE.AppDrawTo.html#JTEW_BOOSE_AppDrawTo_Execute
+  commentId: M:JTEW_BOOSE.AppDrawTo.Execute
+  fullName: JTEW_BOOSE.AppDrawTo.Execute()
+  nameWithType: AppDrawTo.Execute()
+- uid: JTEW_BOOSE.AppDrawTo.Execute*
+  name: Execute
+  href: docs/JTEW_BOOSE.AppDrawTo.html#JTEW_BOOSE_AppDrawTo_Execute_
+  commentId: Overload:JTEW_BOOSE.AppDrawTo.Execute
+  isSpec: "True"
+  fullName: JTEW_BOOSE.AppDrawTo.Execute
+  nameWithType: AppDrawTo.Execute
+- uid: JTEW_BOOSE.AppDrawTo.Set(BOOSE.StoredProgram,System.String)
+  name: Set(StoredProgram, string)
+  href: docs/JTEW_BOOSE.AppDrawTo.html#JTEW_BOOSE_AppDrawTo_Set_BOOSE_StoredProgram_System_String_
+  commentId: M:JTEW_BOOSE.AppDrawTo.Set(BOOSE.StoredProgram,System.String)
+  name.vb: Set(StoredProgram, String)
+  fullName: JTEW_BOOSE.AppDrawTo.Set(BOOSE.StoredProgram, string)
+  fullName.vb: JTEW_BOOSE.AppDrawTo.Set(BOOSE.StoredProgram, String)
+  nameWithType: AppDrawTo.Set(StoredProgram, string)
+  nameWithType.vb: AppDrawTo.Set(StoredProgram, String)
+- uid: JTEW_BOOSE.AppDrawTo.Set*
+  name: Set
+  href: docs/JTEW_BOOSE.AppDrawTo.html#JTEW_BOOSE_AppDrawTo_Set_
+  commentId: Overload:JTEW_BOOSE.AppDrawTo.Set
+  isSpec: "True"
+  fullName: JTEW_BOOSE.AppDrawTo.Set
+  nameWithType: AppDrawTo.Set
+- uid: JTEW_BOOSE.AppMoveTo
+  name: AppMoveTo
+  href: docs/JTEW_BOOSE.AppMoveTo.html
+  commentId: T:JTEW_BOOSE.AppMoveTo
+  fullName: JTEW_BOOSE.AppMoveTo
+  nameWithType: AppMoveTo
+- uid: JTEW_BOOSE.AppMoveTo.#ctor
+  name: AppMoveTo()
+  href: docs/JTEW_BOOSE.AppMoveTo.html#JTEW_BOOSE_AppMoveTo__ctor
+  commentId: M:JTEW_BOOSE.AppMoveTo.#ctor
+  name.vb: New()
+  fullName: JTEW_BOOSE.AppMoveTo.AppMoveTo()
+  fullName.vb: JTEW_BOOSE.AppMoveTo.New()
+  nameWithType: AppMoveTo.AppMoveTo()
+  nameWithType.vb: AppMoveTo.New()
+- uid: JTEW_BOOSE.AppMoveTo.#ctor(JTEW_BOOSE.AppCanvas,System.Int32,System.Int32)
+  name: AppMoveTo(AppCanvas, int, int)
+  href: docs/JTEW_BOOSE.AppMoveTo.html#JTEW_BOOSE_AppMoveTo__ctor_JTEW_BOOSE_AppCanvas_System_Int32_System_Int32_
+  commentId: M:JTEW_BOOSE.AppMoveTo.#ctor(JTEW_BOOSE.AppCanvas,System.Int32,System.Int32)
+  name.vb: New(AppCanvas, Integer, Integer)
+  fullName: JTEW_BOOSE.AppMoveTo.AppMoveTo(JTEW_BOOSE.AppCanvas, int, int)
+  fullName.vb: JTEW_BOOSE.AppMoveTo.New(JTEW_BOOSE.AppCanvas, Integer, Integer)
+  nameWithType: AppMoveTo.AppMoveTo(AppCanvas, int, int)
+  nameWithType.vb: AppMoveTo.New(AppCanvas, Integer, Integer)
+- uid: JTEW_BOOSE.AppMoveTo.#ctor*
+  name: AppMoveTo
+  href: docs/JTEW_BOOSE.AppMoveTo.html#JTEW_BOOSE_AppMoveTo__ctor_
+  commentId: Overload:JTEW_BOOSE.AppMoveTo.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: JTEW_BOOSE.AppMoveTo.AppMoveTo
+  fullName.vb: JTEW_BOOSE.AppMoveTo.New
+  nameWithType: AppMoveTo.AppMoveTo
+  nameWithType.vb: AppMoveTo.New
+- uid: JTEW_BOOSE.AppMoveTo.CheckParameters(System.String[])
+  name: CheckParameters(string[])
+  href: docs/JTEW_BOOSE.AppMoveTo.html#JTEW_BOOSE_AppMoveTo_CheckParameters_System_String___
+  commentId: M:JTEW_BOOSE.AppMoveTo.CheckParameters(System.String[])
+  name.vb: CheckParameters(String())
+  fullName: JTEW_BOOSE.AppMoveTo.CheckParameters(string[])
+  fullName.vb: JTEW_BOOSE.AppMoveTo.CheckParameters(String())
+  nameWithType: AppMoveTo.CheckParameters(string[])
+  nameWithType.vb: AppMoveTo.CheckParameters(String())
+- uid: JTEW_BOOSE.AppMoveTo.CheckParameters*
+  name: CheckParameters
+  href: docs/JTEW_BOOSE.AppMoveTo.html#JTEW_BOOSE_AppMoveTo_CheckParameters_
+  commentId: Overload:JTEW_BOOSE.AppMoveTo.CheckParameters
+  isSpec: "True"
+  fullName: JTEW_BOOSE.AppMoveTo.CheckParameters
+  nameWithType: AppMoveTo.CheckParameters
+- uid: JTEW_BOOSE.AppMoveTo.Compile
+  name: Compile()
+  href: docs/JTEW_BOOSE.AppMoveTo.html#JTEW_BOOSE_AppMoveTo_Compile
+  commentId: M:JTEW_BOOSE.AppMoveTo.Compile
+  fullName: JTEW_BOOSE.AppMoveTo.Compile()
+  nameWithType: AppMoveTo.Compile()
+- uid: JTEW_BOOSE.AppMoveTo.Compile*
+  name: Compile
+  href: docs/JTEW_BOOSE.AppMoveTo.html#JTEW_BOOSE_AppMoveTo_Compile_
+  commentId: Overload:JTEW_BOOSE.AppMoveTo.Compile
+  isSpec: "True"
+  fullName: JTEW_BOOSE.AppMoveTo.Compile
+  nameWithType: AppMoveTo.Compile
+- uid: JTEW_BOOSE.AppMoveTo.Execute
+  name: Execute()
+  href: docs/JTEW_BOOSE.AppMoveTo.html#JTEW_BOOSE_AppMoveTo_Execute
+  commentId: M:JTEW_BOOSE.AppMoveTo.Execute
+  fullName: JTEW_BOOSE.AppMoveTo.Execute()
+  nameWithType: AppMoveTo.Execute()
+- uid: JTEW_BOOSE.AppMoveTo.Execute*
+  name: Execute
+  href: docs/JTEW_BOOSE.AppMoveTo.html#JTEW_BOOSE_AppMoveTo_Execute_
+  commentId: Overload:JTEW_BOOSE.AppMoveTo.Execute
+  isSpec: "True"
+  fullName: JTEW_BOOSE.AppMoveTo.Execute
+  nameWithType: AppMoveTo.Execute
+- uid: JTEW_BOOSE.AppMoveTo.Set(BOOSE.StoredProgram,System.String)
+  name: Set(StoredProgram, string)
+  href: docs/JTEW_BOOSE.AppMoveTo.html#JTEW_BOOSE_AppMoveTo_Set_BOOSE_StoredProgram_System_String_
+  commentId: M:JTEW_BOOSE.AppMoveTo.Set(BOOSE.StoredProgram,System.String)
+  name.vb: Set(StoredProgram, String)
+  fullName: JTEW_BOOSE.AppMoveTo.Set(BOOSE.StoredProgram, string)
+  fullName.vb: JTEW_BOOSE.AppMoveTo.Set(BOOSE.StoredProgram, String)
+  nameWithType: AppMoveTo.Set(StoredProgram, string)
+  nameWithType.vb: AppMoveTo.Set(StoredProgram, String)
+- uid: JTEW_BOOSE.AppMoveTo.Set*
+  name: Set
+  href: docs/JTEW_BOOSE.AppMoveTo.html#JTEW_BOOSE_AppMoveTo_Set_
+  commentId: Overload:JTEW_BOOSE.AppMoveTo.Set
+  isSpec: "True"
+  fullName: JTEW_BOOSE.AppMoveTo.Set
+  nameWithType: AppMoveTo.Set
+- uid: JTEW_BOOSE.AppPColour
+  name: AppPColour
+  href: docs/JTEW_BOOSE.AppPColour.html
+  commentId: T:JTEW_BOOSE.AppPColour
+  fullName: JTEW_BOOSE.AppPColour
+  nameWithType: AppPColour
+- uid: JTEW_BOOSE.AppPColour.#ctor
+  name: AppPColour()
+  href: docs/JTEW_BOOSE.AppPColour.html#JTEW_BOOSE_AppPColour__ctor
+  commentId: M:JTEW_BOOSE.AppPColour.#ctor
+  name.vb: New()
+  fullName: JTEW_BOOSE.AppPColour.AppPColour()
+  fullName.vb: JTEW_BOOSE.AppPColour.New()
+  nameWithType: AppPColour.AppPColour()
+  nameWithType.vb: AppPColour.New()
+- uid: JTEW_BOOSE.AppPColour.#ctor(JTEW_BOOSE.AppCanvas,System.Int32,System.Int32,System.Int32)
+  name: AppPColour(AppCanvas, int, int, int)
+  href: docs/JTEW_BOOSE.AppPColour.html#JTEW_BOOSE_AppPColour__ctor_JTEW_BOOSE_AppCanvas_System_Int32_System_Int32_System_Int32_
+  commentId: M:JTEW_BOOSE.AppPColour.#ctor(JTEW_BOOSE.AppCanvas,System.Int32,System.Int32,System.Int32)
+  name.vb: New(AppCanvas, Integer, Integer, Integer)
+  fullName: JTEW_BOOSE.AppPColour.AppPColour(JTEW_BOOSE.AppCanvas, int, int, int)
+  fullName.vb: JTEW_BOOSE.AppPColour.New(JTEW_BOOSE.AppCanvas, Integer, Integer, Integer)
+  nameWithType: AppPColour.AppPColour(AppCanvas, int, int, int)
+  nameWithType.vb: AppPColour.New(AppCanvas, Integer, Integer, Integer)
+- uid: JTEW_BOOSE.AppPColour.#ctor*
+  name: AppPColour
+  href: docs/JTEW_BOOSE.AppPColour.html#JTEW_BOOSE_AppPColour__ctor_
+  commentId: Overload:JTEW_BOOSE.AppPColour.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: JTEW_BOOSE.AppPColour.AppPColour
+  fullName.vb: JTEW_BOOSE.AppPColour.New
+  nameWithType: AppPColour.AppPColour
+  nameWithType.vb: AppPColour.New
+- uid: JTEW_BOOSE.AppPColour.CheckParameters(System.String[])
+  name: CheckParameters(string[])
+  href: docs/JTEW_BOOSE.AppPColour.html#JTEW_BOOSE_AppPColour_CheckParameters_System_String___
+  commentId: M:JTEW_BOOSE.AppPColour.CheckParameters(System.String[])
+  name.vb: CheckParameters(String())
+  fullName: JTEW_BOOSE.AppPColour.CheckParameters(string[])
+  fullName.vb: JTEW_BOOSE.AppPColour.CheckParameters(String())
+  nameWithType: AppPColour.CheckParameters(string[])
+  nameWithType.vb: AppPColour.CheckParameters(String())
+- uid: JTEW_BOOSE.AppPColour.CheckParameters*
+  name: CheckParameters
+  href: docs/JTEW_BOOSE.AppPColour.html#JTEW_BOOSE_AppPColour_CheckParameters_
+  commentId: Overload:JTEW_BOOSE.AppPColour.CheckParameters
+  isSpec: "True"
+  fullName: JTEW_BOOSE.AppPColour.CheckParameters
+  nameWithType: AppPColour.CheckParameters
+- uid: JTEW_BOOSE.AppPColour.Compile
+  name: Compile()
+  href: docs/JTEW_BOOSE.AppPColour.html#JTEW_BOOSE_AppPColour_Compile
+  commentId: M:JTEW_BOOSE.AppPColour.Compile
+  fullName: JTEW_BOOSE.AppPColour.Compile()
+  nameWithType: AppPColour.Compile()
+- uid: JTEW_BOOSE.AppPColour.Compile*
+  name: Compile
+  href: docs/JTEW_BOOSE.AppPColour.html#JTEW_BOOSE_AppPColour_Compile_
+  commentId: Overload:JTEW_BOOSE.AppPColour.Compile
+  isSpec: "True"
+  fullName: JTEW_BOOSE.AppPColour.Compile
+  nameWithType: AppPColour.Compile
+- uid: JTEW_BOOSE.AppPColour.Execute
+  name: Execute()
+  href: docs/JTEW_BOOSE.AppPColour.html#JTEW_BOOSE_AppPColour_Execute
+  commentId: M:JTEW_BOOSE.AppPColour.Execute
+  fullName: JTEW_BOOSE.AppPColour.Execute()
+  nameWithType: AppPColour.Execute()
+- uid: JTEW_BOOSE.AppPColour.Execute*
+  name: Execute
+  href: docs/JTEW_BOOSE.AppPColour.html#JTEW_BOOSE_AppPColour_Execute_
+  commentId: Overload:JTEW_BOOSE.AppPColour.Execute
+  isSpec: "True"
+  fullName: JTEW_BOOSE.AppPColour.Execute
+  nameWithType: AppPColour.Execute
+- uid: JTEW_BOOSE.AppPColour.Set(BOOSE.StoredProgram,System.String)
+  name: Set(StoredProgram, string)
+  href: docs/JTEW_BOOSE.AppPColour.html#JTEW_BOOSE_AppPColour_Set_BOOSE_StoredProgram_System_String_
+  commentId: M:JTEW_BOOSE.AppPColour.Set(BOOSE.StoredProgram,System.String)
+  name.vb: Set(StoredProgram, String)
+  fullName: JTEW_BOOSE.AppPColour.Set(BOOSE.StoredProgram, string)
+  fullName.vb: JTEW_BOOSE.AppPColour.Set(BOOSE.StoredProgram, String)
+  nameWithType: AppPColour.Set(StoredProgram, string)
+  nameWithType.vb: AppPColour.Set(StoredProgram, String)
+- uid: JTEW_BOOSE.AppPColour.Set*
+  name: Set
+  href: docs/JTEW_BOOSE.AppPColour.html#JTEW_BOOSE_AppPColour_Set_
+  commentId: Overload:JTEW_BOOSE.AppPColour.Set
+  isSpec: "True"
+  fullName: JTEW_BOOSE.AppPColour.Set
+  nameWithType: AppPColour.Set
+- uid: JTEW_BOOSE.AppRect
+  name: AppRect
+  href: docs/JTEW_BOOSE.AppRect.html
+  commentId: T:JTEW_BOOSE.AppRect
+  fullName: JTEW_BOOSE.AppRect
+  nameWithType: AppRect
+- uid: JTEW_BOOSE.AppRect.#ctor
+  name: AppRect()
+  href: docs/JTEW_BOOSE.AppRect.html#JTEW_BOOSE_AppRect__ctor
+  commentId: M:JTEW_BOOSE.AppRect.#ctor
+  name.vb: New()
+  fullName: JTEW_BOOSE.AppRect.AppRect()
+  fullName.vb: JTEW_BOOSE.AppRect.New()
+  nameWithType: AppRect.AppRect()
+  nameWithType.vb: AppRect.New()
+- uid: JTEW_BOOSE.AppRect.#ctor(JTEW_BOOSE.AppCanvas,System.Int32,System.Int32)
+  name: AppRect(AppCanvas, int, int)
+  href: docs/JTEW_BOOSE.AppRect.html#JTEW_BOOSE_AppRect__ctor_JTEW_BOOSE_AppCanvas_System_Int32_System_Int32_
+  commentId: M:JTEW_BOOSE.AppRect.#ctor(JTEW_BOOSE.AppCanvas,System.Int32,System.Int32)
+  name.vb: New(AppCanvas, Integer, Integer)
+  fullName: JTEW_BOOSE.AppRect.AppRect(JTEW_BOOSE.AppCanvas, int, int)
+  fullName.vb: JTEW_BOOSE.AppRect.New(JTEW_BOOSE.AppCanvas, Integer, Integer)
+  nameWithType: AppRect.AppRect(AppCanvas, int, int)
+  nameWithType.vb: AppRect.New(AppCanvas, Integer, Integer)
+- uid: JTEW_BOOSE.AppRect.#ctor*
+  name: AppRect
+  href: docs/JTEW_BOOSE.AppRect.html#JTEW_BOOSE_AppRect__ctor_
+  commentId: Overload:JTEW_BOOSE.AppRect.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: JTEW_BOOSE.AppRect.AppRect
+  fullName.vb: JTEW_BOOSE.AppRect.New
+  nameWithType: AppRect.AppRect
+  nameWithType.vb: AppRect.New
+- uid: JTEW_BOOSE.AppRect.CheckParameters(System.String[])
+  name: CheckParameters(string[])
+  href: docs/JTEW_BOOSE.AppRect.html#JTEW_BOOSE_AppRect_CheckParameters_System_String___
+  commentId: M:JTEW_BOOSE.AppRect.CheckParameters(System.String[])
+  name.vb: CheckParameters(String())
+  fullName: JTEW_BOOSE.AppRect.CheckParameters(string[])
+  fullName.vb: JTEW_BOOSE.AppRect.CheckParameters(String())
+  nameWithType: AppRect.CheckParameters(string[])
+  nameWithType.vb: AppRect.CheckParameters(String())
+- uid: JTEW_BOOSE.AppRect.CheckParameters*
+  name: CheckParameters
+  href: docs/JTEW_BOOSE.AppRect.html#JTEW_BOOSE_AppRect_CheckParameters_
+  commentId: Overload:JTEW_BOOSE.AppRect.CheckParameters
+  isSpec: "True"
+  fullName: JTEW_BOOSE.AppRect.CheckParameters
+  nameWithType: AppRect.CheckParameters
+- uid: JTEW_BOOSE.AppRect.Compile
+  name: Compile()
+  href: docs/JTEW_BOOSE.AppRect.html#JTEW_BOOSE_AppRect_Compile
+  commentId: M:JTEW_BOOSE.AppRect.Compile
+  fullName: JTEW_BOOSE.AppRect.Compile()
+  nameWithType: AppRect.Compile()
+- uid: JTEW_BOOSE.AppRect.Compile*
+  name: Compile
+  href: docs/JTEW_BOOSE.AppRect.html#JTEW_BOOSE_AppRect_Compile_
+  commentId: Overload:JTEW_BOOSE.AppRect.Compile
+  isSpec: "True"
+  fullName: JTEW_BOOSE.AppRect.Compile
+  nameWithType: AppRect.Compile
+- uid: JTEW_BOOSE.AppRect.Execute
+  name: Execute()
+  href: docs/JTEW_BOOSE.AppRect.html#JTEW_BOOSE_AppRect_Execute
+  commentId: M:JTEW_BOOSE.AppRect.Execute
+  fullName: JTEW_BOOSE.AppRect.Execute()
+  nameWithType: AppRect.Execute()
+- uid: JTEW_BOOSE.AppRect.Execute*
+  name: Execute
+  href: docs/JTEW_BOOSE.AppRect.html#JTEW_BOOSE_AppRect_Execute_
+  commentId: Overload:JTEW_BOOSE.AppRect.Execute
+  isSpec: "True"
+  fullName: JTEW_BOOSE.AppRect.Execute
+  nameWithType: AppRect.Execute
+- uid: JTEW_BOOSE.AppRect.Set(BOOSE.StoredProgram,System.String)
+  name: Set(StoredProgram, string)
+  href: docs/JTEW_BOOSE.AppRect.html#JTEW_BOOSE_AppRect_Set_BOOSE_StoredProgram_System_String_
+  commentId: M:JTEW_BOOSE.AppRect.Set(BOOSE.StoredProgram,System.String)
+  name.vb: Set(StoredProgram, String)
+  fullName: JTEW_BOOSE.AppRect.Set(BOOSE.StoredProgram, string)
+  fullName.vb: JTEW_BOOSE.AppRect.Set(BOOSE.StoredProgram, String)
+  nameWithType: AppRect.Set(StoredProgram, string)
+  nameWithType.vb: AppRect.Set(StoredProgram, String)
+- uid: JTEW_BOOSE.AppRect.Set*
+  name: Set
+  href: docs/JTEW_BOOSE.AppRect.html#JTEW_BOOSE_AppRect_Set_
+  commentId: Overload:JTEW_BOOSE.AppRect.Set
+  isSpec: "True"
+  fullName: JTEW_BOOSE.AppRect.Set
+  nameWithType: AppRect.Set
+- uid: JTEW_BOOSE.AppTri
+  name: AppTri
+  href: docs/JTEW_BOOSE.AppTri.html
+  commentId: T:JTEW_BOOSE.AppTri
+  fullName: JTEW_BOOSE.AppTri
+  nameWithType: AppTri
+- uid: JTEW_BOOSE.AppTri.#ctor
+  name: AppTri()
+  href: docs/JTEW_BOOSE.AppTri.html#JTEW_BOOSE_AppTri__ctor
+  commentId: M:JTEW_BOOSE.AppTri.#ctor
+  name.vb: New()
+  fullName: JTEW_BOOSE.AppTri.AppTri()
+  fullName.vb: JTEW_BOOSE.AppTri.New()
+  nameWithType: AppTri.AppTri()
+  nameWithType.vb: AppTri.New()
+- uid: JTEW_BOOSE.AppTri.#ctor(BOOSE.Canvas,System.Int32,System.Int32)
+  name: AppTri(Canvas, int, int)
+  href: docs/JTEW_BOOSE.AppTri.html#JTEW_BOOSE_AppTri__ctor_BOOSE_Canvas_System_Int32_System_Int32_
+  commentId: M:JTEW_BOOSE.AppTri.#ctor(BOOSE.Canvas,System.Int32,System.Int32)
+  name.vb: New(Canvas, Integer, Integer)
+  fullName: JTEW_BOOSE.AppTri.AppTri(BOOSE.Canvas, int, int)
+  fullName.vb: JTEW_BOOSE.AppTri.New(BOOSE.Canvas, Integer, Integer)
+  nameWithType: AppTri.AppTri(Canvas, int, int)
+  nameWithType.vb: AppTri.New(Canvas, Integer, Integer)
+- uid: JTEW_BOOSE.AppTri.#ctor*
+  name: AppTri
+  href: docs/JTEW_BOOSE.AppTri.html#JTEW_BOOSE_AppTri__ctor_
+  commentId: Overload:JTEW_BOOSE.AppTri.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: JTEW_BOOSE.AppTri.AppTri
+  fullName.vb: JTEW_BOOSE.AppTri.New
+  nameWithType: AppTri.AppTri
+  nameWithType.vb: AppTri.New
+- uid: JTEW_BOOSE.AppTri.CheckParameters(System.String[])
+  name: CheckParameters(string[])
+  href: docs/JTEW_BOOSE.AppTri.html#JTEW_BOOSE_AppTri_CheckParameters_System_String___
+  commentId: M:JTEW_BOOSE.AppTri.CheckParameters(System.String[])
+  name.vb: CheckParameters(String())
+  fullName: JTEW_BOOSE.AppTri.CheckParameters(string[])
+  fullName.vb: JTEW_BOOSE.AppTri.CheckParameters(String())
+  nameWithType: AppTri.CheckParameters(string[])
+  nameWithType.vb: AppTri.CheckParameters(String())
+- uid: JTEW_BOOSE.AppTri.CheckParameters*
+  name: CheckParameters
+  href: docs/JTEW_BOOSE.AppTri.html#JTEW_BOOSE_AppTri_CheckParameters_
+  commentId: Overload:JTEW_BOOSE.AppTri.CheckParameters
+  isSpec: "True"
+  fullName: JTEW_BOOSE.AppTri.CheckParameters
+  nameWithType: AppTri.CheckParameters
+- uid: JTEW_BOOSE.AppTri.Compile
+  name: Compile()
+  href: docs/JTEW_BOOSE.AppTri.html#JTEW_BOOSE_AppTri_Compile
+  commentId: M:JTEW_BOOSE.AppTri.Compile
+  fullName: JTEW_BOOSE.AppTri.Compile()
+  nameWithType: AppTri.Compile()
+- uid: JTEW_BOOSE.AppTri.Compile*
+  name: Compile
+  href: docs/JTEW_BOOSE.AppTri.html#JTEW_BOOSE_AppTri_Compile_
+  commentId: Overload:JTEW_BOOSE.AppTri.Compile
+  isSpec: "True"
+  fullName: JTEW_BOOSE.AppTri.Compile
+  nameWithType: AppTri.Compile
+- uid: JTEW_BOOSE.AppTri.Execute
+  name: Execute()
+  href: docs/JTEW_BOOSE.AppTri.html#JTEW_BOOSE_AppTri_Execute
+  commentId: M:JTEW_BOOSE.AppTri.Execute
+  fullName: JTEW_BOOSE.AppTri.Execute()
+  nameWithType: AppTri.Execute()
+- uid: JTEW_BOOSE.AppTri.Execute*
+  name: Execute
+  href: docs/JTEW_BOOSE.AppTri.html#JTEW_BOOSE_AppTri_Execute_
+  commentId: Overload:JTEW_BOOSE.AppTri.Execute
+  isSpec: "True"
+  fullName: JTEW_BOOSE.AppTri.Execute
+  nameWithType: AppTri.Execute
+- uid: JTEW_BOOSE.AppTri.Set(BOOSE.StoredProgram,System.String)
+  name: Set(StoredProgram, string)
+  href: docs/JTEW_BOOSE.AppTri.html#JTEW_BOOSE_AppTri_Set_BOOSE_StoredProgram_System_String_
+  commentId: M:JTEW_BOOSE.AppTri.Set(BOOSE.StoredProgram,System.String)
+  name.vb: Set(StoredProgram, String)
+  fullName: JTEW_BOOSE.AppTri.Set(BOOSE.StoredProgram, string)
+  fullName.vb: JTEW_BOOSE.AppTri.Set(BOOSE.StoredProgram, String)
+  nameWithType: AppTri.Set(StoredProgram, string)
+  nameWithType.vb: AppTri.Set(StoredProgram, String)
+- uid: JTEW_BOOSE.AppTri.Set*
+  name: Set
+  href: docs/JTEW_BOOSE.AppTri.html#JTEW_BOOSE_AppTri_Set_
+  commentId: Overload:JTEW_BOOSE.AppTri.Set
+  isSpec: "True"
+  fullName: JTEW_BOOSE.AppTri.Set
+  nameWithType: AppTri.Set
+- uid: JTEW_BOOSE.AppWriteText
+  name: AppWriteText
+  href: docs/JTEW_BOOSE.AppWriteText.html
+  commentId: T:JTEW_BOOSE.AppWriteText
+  fullName: JTEW_BOOSE.AppWriteText
+  nameWithType: AppWriteText
+- uid: JTEW_BOOSE.AppWriteText.#ctor
+  name: AppWriteText()
+  href: docs/JTEW_BOOSE.AppWriteText.html#JTEW_BOOSE_AppWriteText__ctor
+  commentId: M:JTEW_BOOSE.AppWriteText.#ctor
+  name.vb: New()
+  fullName: JTEW_BOOSE.AppWriteText.AppWriteText()
+  fullName.vb: JTEW_BOOSE.AppWriteText.New()
+  nameWithType: AppWriteText.AppWriteText()
+  nameWithType.vb: AppWriteText.New()
+- uid: JTEW_BOOSE.AppWriteText.#ctor(JTEW_BOOSE.AppCanvas,System.String)
+  name: AppWriteText(AppCanvas, string)
+  href: docs/JTEW_BOOSE.AppWriteText.html#JTEW_BOOSE_AppWriteText__ctor_JTEW_BOOSE_AppCanvas_System_String_
+  commentId: M:JTEW_BOOSE.AppWriteText.#ctor(JTEW_BOOSE.AppCanvas,System.String)
+  name.vb: New(AppCanvas, String)
+  fullName: JTEW_BOOSE.AppWriteText.AppWriteText(JTEW_BOOSE.AppCanvas, string)
+  fullName.vb: JTEW_BOOSE.AppWriteText.New(JTEW_BOOSE.AppCanvas, String)
+  nameWithType: AppWriteText.AppWriteText(AppCanvas, string)
+  nameWithType.vb: AppWriteText.New(AppCanvas, String)
+- uid: JTEW_BOOSE.AppWriteText.#ctor*
+  name: AppWriteText
+  href: docs/JTEW_BOOSE.AppWriteText.html#JTEW_BOOSE_AppWriteText__ctor_
+  commentId: Overload:JTEW_BOOSE.AppWriteText.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: JTEW_BOOSE.AppWriteText.AppWriteText
+  fullName.vb: JTEW_BOOSE.AppWriteText.New
+  nameWithType: AppWriteText.AppWriteText
+  nameWithType.vb: AppWriteText.New
+- uid: JTEW_BOOSE.AppWriteText.CheckParameters(System.String[])
+  name: CheckParameters(string[])
+  href: docs/JTEW_BOOSE.AppWriteText.html#JTEW_BOOSE_AppWriteText_CheckParameters_System_String___
+  commentId: M:JTEW_BOOSE.AppWriteText.CheckParameters(System.String[])
+  name.vb: CheckParameters(String())
+  fullName: JTEW_BOOSE.AppWriteText.CheckParameters(string[])
+  fullName.vb: JTEW_BOOSE.AppWriteText.CheckParameters(String())
+  nameWithType: AppWriteText.CheckParameters(string[])
+  nameWithType.vb: AppWriteText.CheckParameters(String())
+- uid: JTEW_BOOSE.AppWriteText.CheckParameters*
+  name: CheckParameters
+  href: docs/JTEW_BOOSE.AppWriteText.html#JTEW_BOOSE_AppWriteText_CheckParameters_
+  commentId: Overload:JTEW_BOOSE.AppWriteText.CheckParameters
+  isSpec: "True"
+  fullName: JTEW_BOOSE.AppWriteText.CheckParameters
+  nameWithType: AppWriteText.CheckParameters
+- uid: JTEW_BOOSE.AppWriteText.Compile
+  name: Compile()
+  href: docs/JTEW_BOOSE.AppWriteText.html#JTEW_BOOSE_AppWriteText_Compile
+  commentId: M:JTEW_BOOSE.AppWriteText.Compile
+  fullName: JTEW_BOOSE.AppWriteText.Compile()
+  nameWithType: AppWriteText.Compile()
+- uid: JTEW_BOOSE.AppWriteText.Compile*
+  name: Compile
+  href: docs/JTEW_BOOSE.AppWriteText.html#JTEW_BOOSE_AppWriteText_Compile_
+  commentId: Overload:JTEW_BOOSE.AppWriteText.Compile
+  isSpec: "True"
+  fullName: JTEW_BOOSE.AppWriteText.Compile
+  nameWithType: AppWriteText.Compile
+- uid: JTEW_BOOSE.AppWriteText.Execute
+  name: Execute()
+  href: docs/JTEW_BOOSE.AppWriteText.html#JTEW_BOOSE_AppWriteText_Execute
+  commentId: M:JTEW_BOOSE.AppWriteText.Execute
+  fullName: JTEW_BOOSE.AppWriteText.Execute()
+  nameWithType: AppWriteText.Execute()
+- uid: JTEW_BOOSE.AppWriteText.Execute*
+  name: Execute
+  href: docs/JTEW_BOOSE.AppWriteText.html#JTEW_BOOSE_AppWriteText_Execute_
+  commentId: Overload:JTEW_BOOSE.AppWriteText.Execute
+  isSpec: "True"
+  fullName: JTEW_BOOSE.AppWriteText.Execute
+  nameWithType: AppWriteText.Execute
+- uid: JTEW_BOOSE.AppWriteText.Set(BOOSE.StoredProgram,System.String)
+  name: Set(StoredProgram, string)
+  href: docs/JTEW_BOOSE.AppWriteText.html#JTEW_BOOSE_AppWriteText_Set_BOOSE_StoredProgram_System_String_
+  commentId: M:JTEW_BOOSE.AppWriteText.Set(BOOSE.StoredProgram,System.String)
+  name.vb: Set(StoredProgram, String)
+  fullName: JTEW_BOOSE.AppWriteText.Set(BOOSE.StoredProgram, string)
+  fullName.vb: JTEW_BOOSE.AppWriteText.Set(BOOSE.StoredProgram, String)
+  nameWithType: AppWriteText.Set(StoredProgram, string)
+  nameWithType.vb: AppWriteText.Set(StoredProgram, String)
+- uid: JTEW_BOOSE.AppWriteText.Set*
+  name: Set
+  href: docs/JTEW_BOOSE.AppWriteText.html#JTEW_BOOSE_AppWriteText_Set_
+  commentId: Overload:JTEW_BOOSE.AppWriteText.Set
+  isSpec: "True"
+  fullName: JTEW_BOOSE.AppWriteText.Set
+  nameWithType: AppWriteText.Set
+- uid: JTEW_BOOSE.BOOSE
+  name: BOOSE
+  href: docs/JTEW_BOOSE.BOOSE.html
+  commentId: T:JTEW_BOOSE.BOOSE
+  fullName: JTEW_BOOSE.BOOSE
+  nameWithType: BOOSE
+- uid: JTEW_BOOSE.BOOSE.#ctor
+  name: BOOSE()
+  href: docs/JTEW_BOOSE.BOOSE.html#JTEW_BOOSE_BOOSE__ctor
+  commentId: M:JTEW_BOOSE.BOOSE.#ctor
+  name.vb: New()
+  fullName: JTEW_BOOSE.BOOSE.BOOSE()
+  fullName.vb: JTEW_BOOSE.BOOSE.New()
+  nameWithType: BOOSE.BOOSE()
+  nameWithType.vb: BOOSE.New()
+- uid: JTEW_BOOSE.BOOSE.#ctor*
+  name: BOOSE
+  href: docs/JTEW_BOOSE.BOOSE.html#JTEW_BOOSE_BOOSE__ctor_
+  commentId: Overload:JTEW_BOOSE.BOOSE.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: JTEW_BOOSE.BOOSE.BOOSE
+  fullName.vb: JTEW_BOOSE.BOOSE.New
+  nameWithType: BOOSE.BOOSE
+  nameWithType.vb: BOOSE.New
+- uid: JTEW_BOOSE.BOOSE.Dispose(System.Boolean)
+  name: Dispose(bool)
+  href: docs/JTEW_BOOSE.BOOSE.html#JTEW_BOOSE_BOOSE_Dispose_System_Boolean_
+  commentId: M:JTEW_BOOSE.BOOSE.Dispose(System.Boolean)
+  name.vb: Dispose(Boolean)
+  fullName: JTEW_BOOSE.BOOSE.Dispose(bool)
+  fullName.vb: JTEW_BOOSE.BOOSE.Dispose(Boolean)
+  nameWithType: BOOSE.Dispose(bool)
+  nameWithType.vb: BOOSE.Dispose(Boolean)
+- uid: JTEW_BOOSE.BOOSE.Dispose*
+  name: Dispose
+  href: docs/JTEW_BOOSE.BOOSE.html#JTEW_BOOSE_BOOSE_Dispose_
+  commentId: Overload:JTEW_BOOSE.BOOSE.Dispose
+  isSpec: "True"
+  fullName: JTEW_BOOSE.BOOSE.Dispose
+  nameWithType: BOOSE.Dispose
